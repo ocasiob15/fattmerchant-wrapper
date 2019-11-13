@@ -1,0 +1,24 @@
+{
+  "name": "fattmerchant-wrapper",
+  "version": "1.0.0",
+  "description": "A microservice that wraps around fattmerchants platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocasiob15/fattmerchant-wrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ocasiob15/fattmerchant-wrapper/issues"
+  },
+  "homepage": "https://github.com/ocasiob15/fattmerchant-wrapper#readme",
+  "devDependencies": {
+    "serverless-python-requirements": "^5.0.1",
+    "serverless-wsgi": "^1.7.3"
+  }
+}
